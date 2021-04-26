@@ -1,3 +1,3 @@
 #Next Generation Hero
 
-- [WebGLBuild] (./WebGL)
+- [WebGLBuild](./WebGL)
